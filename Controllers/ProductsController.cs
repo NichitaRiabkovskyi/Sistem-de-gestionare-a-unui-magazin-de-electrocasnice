@@ -1,7 +1,10 @@
 using Microsoft.AspNetCore.Mvc;
 using MyApi.Models;
+<<<<<<< HEAD
 using MyApi.Middleware; // Importăm pipe-ul
 using System.Globalization;
+=======
+>>>>>>> 0b19734e3d4a77c7e8f07f827793c4040d48c45d
 
 namespace MyApi.Controllers
 {
@@ -23,6 +26,7 @@ namespace MyApi.Controllers
             new Product { Id = 10, Name = "GPU", Price = 2500 },
         };
 
+<<<<<<< HEAD
         // 🔹 GET /product/list
         [HttpGet("list")]
         public ActionResult<IEnumerable<Product>> GetList()
@@ -64,6 +68,13 @@ namespace MyApi.Controllers
                 return NotFound("Niciun produs găsit cu acest nume.");
 
             return Ok(results);
+=======
+        // GET /product/list
+        [HttpGet("list")]
+        public ActionResult<IEnumerable<Product>> GetList()
+        {
+            return Ok(Products);
+>>>>>>> 0b19734e3d4a77c7e8f07f827793c4040d48c45d
         }
     }
 }

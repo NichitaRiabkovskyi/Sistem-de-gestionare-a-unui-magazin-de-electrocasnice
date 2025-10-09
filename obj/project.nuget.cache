@@ -1,10 +1,19 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "XwNWKHlQ3Ng=",
   "success": true,
   "projectFilePath": "C:\\Users\\111\\Desktop\\SS\\Sistem-de-gestionare-a-unui-magazin-de-electrocasnice-main\\MyApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\111\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0-rc.1.25451.107\\microsoft.aspnetcore.openapi.10.0.0-rc.1.25451.107.nupkg.sha512"
+=======
+  "dgSpecHash": "3kjp5aJgRfk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nick\\MyApi\\MyApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nick\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0-rc.1.25451.107\\microsoft.aspnetcore.openapi.10.0.0-rc.1.25451.107.nupkg.sha512",
+    "C:\\Users\\Nick\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+>>>>>>> 0b19734e3d4a77c7e8f07f827793c4040d48c45d
   ],
   "logs": []
 }
