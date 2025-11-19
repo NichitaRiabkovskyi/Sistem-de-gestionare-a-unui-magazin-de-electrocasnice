@@ -9,7 +9,7 @@ namespace MyApi.Controllers
     [Route("admin")]
     public class AdminController : ControllerBase
     {
-        // Nivel 9: /admin/reports -> doar admin (middleware)
+        
         [HttpGet("reports")]
         public ActionResult GetReports()
         {
@@ -17,7 +17,7 @@ namespace MyApi.Controllers
             return Ok(new { totalProducts = InMemoryData.Products.Count });
         }
 
-        // Nivel 9: /admin/edit/{id} -> editare produs (PUT)
+        
         [HttpPut("edit/{id:int}")]
         public ActionResult EditProduct(int id, [FromBody] Product updated)
         {

@@ -29,3 +29,5 @@ C:\Users\111\Desktop\SS\Sistem-de-gestionare-a-unui-magazin-de-electrocasnice-ma
 C:\Users\111\Desktop\SS\Sistem-de-gestionare-a-unui-magazin-de-electrocasnice-main\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\111\Desktop\SS\Sistem-de-gestionare-a-unui-magazin-de-electrocasnice-main\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\111\Desktop\SS\Sistem-de-gestionare-a-unui-magazin-de-electrocasnice-main\obj\Debug\net8.0\MyApi.csproj.Up2Date
+C:\Users\111\Desktop\SS\Sistem-de-gestionare-a-unui-magazin-de-electrocasnice-main\bin\Debug\net8.0\package-lock.json
+C:\Users\111\Desktop\SS\Sistem-de-gestionare-a-unui-magazin-de-electrocasnice-main\bin\Debug\net8.0\package.json
