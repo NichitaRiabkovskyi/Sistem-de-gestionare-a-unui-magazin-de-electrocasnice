@@ -23,3 +23,9 @@ C:\Users\111\Desktop\SS\Sistem-de-gestionare-a-unui-magazin-de-electrocasnice-ma
 C:\Users\111\Desktop\SS\Sistem-de-gestionare-a-unui-magazin-de-electrocasnice-main\obj\Debug\net8.0\MyApi.pdb
 C:\Users\111\Desktop\SS\Sistem-de-gestionare-a-unui-magazin-de-electrocasnice-main\obj\Debug\net8.0\MyApi.genruntimeconfig.cache
 C:\Users\111\Desktop\SS\Sistem-de-gestionare-a-unui-magazin-de-electrocasnice-main\obj\Debug\net8.0\ref\MyApi.dll
+C:\Users\111\Desktop\SS\Sistem-de-gestionare-a-unui-magazin-de-electrocasnice-main\obj\Debug\net8.0\MyApi.csproj.AssemblyReference.cache
+C:\Users\111\Desktop\SS\Sistem-de-gestionare-a-unui-magazin-de-electrocasnice-main\obj\Debug\net8.0\MyApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\111\Desktop\SS\Sistem-de-gestionare-a-unui-magazin-de-electrocasnice-main\obj\Debug\net8.0\MyApi.sourcelink.json
+C:\Users\111\Desktop\SS\Sistem-de-gestionare-a-unui-magazin-de-electrocasnice-main\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\111\Desktop\SS\Sistem-de-gestionare-a-unui-magazin-de-electrocasnice-main\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\111\Desktop\SS\Sistem-de-gestionare-a-unui-magazin-de-electrocasnice-main\obj\Debug\net8.0\MyApi.csproj.Up2Date
